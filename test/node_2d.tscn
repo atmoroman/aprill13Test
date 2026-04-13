@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://dad7bc4523ujr"]
 
 [ext_resource type="Script" uid="uid://bty6f8kugl0ng" path="res://face.gd" id="1_wtcfe"]
+[ext_resource type="Script" uid="uid://7ycalakhd6rq" path="res://spawnButton.gd" id="2_0e48y"]
 
 [node name="Node2D" type="Node2D" unique_id=1284420900]
 script = ExtResource("1_wtcfe")
@@ -11,3 +12,4 @@ offset_top = 270.0
 offset_right = 799.0
 offset_bottom = 348.0
 text = "Spawn Smile"
+script = ExtResource("2_0e48y")
