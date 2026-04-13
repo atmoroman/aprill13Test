@@ -4,3 +4,9 @@
 
 [node name="Node2D" type="Node2D" unique_id=1284420900]
 script = ExtResource("1_wtcfe")
+
+[node name="Button" type="Button" parent="." unique_id=1379988321]
+offset_left = 44.0
+offset_top = 51.0
+offset_right = 147.0
+offset_bottom = 67.0
