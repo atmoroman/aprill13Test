@@ -6,6 +6,15 @@
 [node name="Node2D" type="Node2D" unique_id=1284420900]
 script = ExtResource("1_wtcfe")
 
+[node name="HSlider" type="HSlider" parent="." unique_id=1495658805]
+offset_left = 26.0
+offset_top = 362.0
+offset_right = 682.0
+offset_bottom = 558.0
+max_value = 1.0
+step = 0.01
+value = 0.5
+
 [node name="Button" type="Button" parent="." unique_id=1379988321]
 offset_left = 498.0
 offset_top = 270.0
